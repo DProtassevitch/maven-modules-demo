@@ -10,10 +10,6 @@ public class UserDao {
      * @return current user
      */
     public String getUser() {
-        if (true)
-            System.out.println();
-            System.out.println();
-
-        return "Alex";
+       return "Alex";
     }
 }
