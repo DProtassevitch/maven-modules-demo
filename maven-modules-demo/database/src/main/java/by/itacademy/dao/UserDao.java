@@ -10,6 +10,6 @@ public class UserDao {
      * @return current user
      */
     public String getUser() {
-       return "Alex";
+       return "Alex-Palex";
     }
 }
